@@ -6,7 +6,7 @@ Simple dice rolling game to play with your friend or colleague. If player get mo
 - HTML
 - CSS
 - JavaScript
-- Deployment to [Vercel](https://vercel.com/)
+- Deployment to [azure app service](https://orange-pebble-0a2edb20f.5.azurestaticapps.net)
 
 ### Learnings
 1. I learnt basic javascript principles 
